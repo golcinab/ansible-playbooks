@@ -1,0 +1,6 @@
+
+[master]
+localhost		ansible_connection=local
+
+[elasticlab]
+localhost		ansible_connection=local

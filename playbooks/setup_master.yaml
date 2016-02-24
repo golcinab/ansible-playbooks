@@ -1,0 +1,15 @@
+# playbook to setup master node
+
+# tasks:
+# install docker
+# install git
+# instsall fish
+
+# ask main user
+# create docker group
+# add docker group to user
+# set user to use fish shell
+# create directory apps
+# set directory gid
+# ask git user
+# git clone: ansible, dockerfiles, lab configs
